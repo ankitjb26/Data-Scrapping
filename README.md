@@ -10,6 +10,7 @@ While extracting text, please make sure your program extracts only the article t
 It should not extract the website header, footer, or anything other than the article text. 
 
 Data Analysis
+
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. 
 Variables
 Definition of each of the variables given in the “Text Analysis.docx” file.
